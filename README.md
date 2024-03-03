@@ -1,11 +1,20 @@
 
 This data analysis was created as a part of the final project my group and I worked on while taking the course **COGS 108: Data Science in Practice**.
 
-It reflects the knowledge gleaned from the data we gathered, all related to designing a solution to the growing food waste problem in the United States. With the survey we designed to facilitate data collection, we examined the following behaviors:
+It reflects the knowledge gleaned from the datasets we gathered from Kaggle, all related to video games. It reflects the knowledge learned as part of this course, including:
 
-Grocery Shopping Habits
-Managing Groceries at Home
-Monitoring Expiration Dates
-Problem Statement
+* Grocery Shopping Habits
+* Managing Groceries at Home
+* Monitoring Expiration Dates
 
-With our fast-paced society becoming increasingly dominated by the busyness of consumerism, our markets are becoming more and more crowded. As such, we often end up with food in our refrigerators that we either do not need or can no longer eat. The United States is a notorious contributor to the problem of food waste, especially when considering the ever-increasing portion sizes of the American diet. We would like to tackle this problem head-on and target the problem at home, given that learning and teaching healthy food management habits early on will encourage long-term retention. In specific terms, this would translate to fewer food items, especially produce, being forgotten and thrown away or being deemed “unusable” because individuals do not know how to incorporate them into their meal plans.
+### Research Question
+
+How do combinations of different video game genres and developer company scale affect the discrepancy between aggregate user and critical reviews, and how does this discrepancy in turn impact the sales performance of these video games in different global markets?
+
+Although there is a timeline cataloging the completion of each facet of the project, their order is listed here for convenience:
+
+1. [`Project_Proposal`](https://github.com/the0asis/miraculous-ladybug-chatbot/blob/main/mlbchatbot.m)
+2. [`Data_Checkpoint`](https://github.com/the0asis/miraculous-ladybug-chatbot/blob/main/mlbgoogletrends.m)
+3. [`EDA_Checkpoint_1`](https://github.com/the0asis/miraculous-ladybug-chatbot/blob/main/mlbcharacterdiscuss.m)
+4. [`EDA_Checkpoint_2`](https://github.com/the0asis/miraculous-ladybug-chatbot/blob/main/mlblovesquare.m)
+5. [`Final_Project`](https://github.com/the0asis/miraculous-ladybug-chatbot/blob/main/mlblovesquarediscuss.m)
