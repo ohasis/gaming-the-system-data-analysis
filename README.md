@@ -1,4 +1,4 @@
-# Gaming the System: Analyzing If Genres Predict a Video Game's Success
+## Gaming the System: Analyzing If Genres Predict a Video Game's Success
 
 This data analysis was created as a part of the final project my group and I worked on while taking the course **COGS 108: Data Science in Practice**.
 
