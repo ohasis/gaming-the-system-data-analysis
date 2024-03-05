@@ -4,9 +4,10 @@ This data analysis was created as a part of the final project Anish Devineni, Et
 
 It reflects the knowledge gleaned from the datasets we gathered from Kaggle, all related to video games. It reflects the knowledge learned as part of this course, including:
 
-* Grocery Shopping Habits
-* Managing Groceries at Home
-* Monitoring Expiration Dates
+* Writing Formal Data Analysis Reports
+* Cleaning CSV Files for Analysis
+* Handling Multilingual CSV Entries
+* Conducting Sentiment Analysis
 
 ### Research Question
 
