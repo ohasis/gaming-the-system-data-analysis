@@ -1,6 +1,6 @@
 ## Gaming the System: Analyzing If Genres Predict a Video Game's Success
 
-This data analysis was created as a part of the final project Anish Devineni, Ethan Heffernan, Dayoung Ki, Pranav Nair, and I worked on while taking the course **COGS 108: Data Science in Practice**.
+This data analysis was created as a part of the final project Anish Devineni, Ethan Heffernan, Dayoung Ki, Pranav Nair, and Artemis Lopez worked on while taking the course **COGS 108: Data Science in Practice**.
 
 It reflects the knowledge gleaned from the datasets we gathered from Kaggle, all related to video games. It reflects the knowledge learned as part of this course, including:
 
@@ -11,7 +11,7 @@ It reflects the knowledge gleaned from the datasets we gathered from Kaggle, all
 
 ### Research Question
 
-How do combinations of different video game genres and developer company scale affect the discrepancy between aggregate user and critical reviews, and how does this discrepancy in turn impact the sales performance of these video games in different global markets?
+How do combinations of different video game genres and developer company scale affect the discrepancy between aggregate user and critical reviews, and how does this discrepancy impact the sales performance of these video games in different global markets?
 
 Although there is a timeline cataloging the completion of each facet of the project, their order is listed here for convenience:
 
