@@ -1,6 +1,6 @@
 ## Gaming the System: Analyzing If Genres Predict a Video Game's Success
 
-This data analysis was created as a part of the final project Anish Devineni, Ethan Heffernan, Dayoung Ki, Pranav Nair, and I (Artemis Lopez) worked on while taking the course **COGS 108: Data Science in Practice**.
+This data analysis was created as a part of the final project Anish Devineni, Ethan Heffernan, Dayoung Ki, Pranav Nair, and I (Artemis Lopez) worked on while taking the course **COGS 108: Data Science in Practice** at UCSD.
 
 It reflects the knowledge gleaned from the datasets we gathered from Kaggle, all related to video games. It reflects the knowledge learned as part of this course, including:
 
